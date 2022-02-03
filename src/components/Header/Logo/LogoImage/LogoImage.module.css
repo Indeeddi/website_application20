@@ -1,0 +1,19 @@
+.logo{
+    display: flex;
+    
+}
+
+.logo img{
+    width: 120px;
+    grid-area: logoI;
+
+
+}
+
+.logo h1{
+    color: rgb(167, 117, 9);
+    font-family: 'Quintessential', cursive, 'Times New Roman', Times, cursive;
+    margin-left: 33%;
+}
+
+

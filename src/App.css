@@ -1,0 +1,19 @@
+.app-wrapper{
+  margin: 0 auto;
+  display: grid;
+  padding: 0 0 340px;
+    max-width: 1440px;
+    margin: 0 auto;
+    overflow: hidden;
+
+  grid-template-areas:
+  "hed hed hed hed"
+  "navL navL navL navL"
+  "nav con con2 search";
+
+  grid-template-rows: 4fr;
+  grid-template-columns: 1fr 5fr 5fr fr;
+
+  background-image: url(./image/bcphoto5.png);
+  background-position: center;
+}

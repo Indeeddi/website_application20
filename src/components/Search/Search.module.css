@@ -1,0 +1,17 @@
+.content{
+    grid-area: search;
+
+    
+}
+.content img{
+    max-width: 350px;
+    margin-left: 60px;  
+}
+p {
+    text-align:justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+h3{
+    text-align: center;
+}

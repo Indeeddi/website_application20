@@ -1,0 +1,24 @@
+.content{
+    grid-area: con;
+    margin: 50px;
+  }
+  .content2{
+    grid-area: con2;
+    margin: 50px;
+  }
+
+  .content img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    max-width: 400px;
+  }
+
+  h5{
+    text-align: center;
+    border: 2px solid rgba(191, 147, 216, 0.5);
+    font-family: 'Times New Roman', Times, serif;
+
+    
+  }
